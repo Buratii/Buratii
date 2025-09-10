@@ -36,19 +36,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>electron_tooltips:</b> A minimal Electron + React (Vite) desktop app that showcases a tooltip guide / product tour component. Includes two JSON/TS mocks: a users list and a page-aware guide definition.  
-</p>
-<p align="center">
-  <b>game-analytics:</b> Game analytics platform with microservices for event ingestion, processing, and storage. Built using Kafka, PostgreSQL, Spark, and Python.  
-</p>
-<p align="center">
-  <b>payflow:</b> Expense tracking application that helps users manage and categorize their spending efficiently.  
-</p>
-<p align="center">
-  <b>framer-motion-web:</b> Demonstrates the use of Framer Motion for real landing pages, adding smooth animations while scrolling.  
-</p>
-
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
