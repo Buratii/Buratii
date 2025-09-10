@@ -11,6 +11,14 @@
 - 🛠 Skilled with **React, Next.js, Android (Java/XML), NestJS, Prisma**  
 - 🌎 Worked with clients such as **MiBR, Victor Hugo, Merchandise, Monest**
 
+# 📌 Featured Repositories
+
+[![electron_tooltips](https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=electron_tooltips&theme=radical)](https://github.com/Buratii/electron_tooltips)
+[![game-analytics](https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=game-analytics&theme=radical)](https://github.com/Buratii/game-analytics)
+
+[![payflow](https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=payflow&theme=radical)](https://github.com/Buratii/payflow)
+[![framer-motion-web](https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=framer-motion-web&theme=radical)](https://github.com/Buratii/framer-motion-web)
+
 # 📊 GitHub Stats
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buratii&show_icons=true&theme=radical)  
