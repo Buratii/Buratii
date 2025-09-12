@@ -31,8 +31,8 @@
   <a href="https://github.com/Buratii/payflow">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=payflow&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d" />
   </a>
-  <a href="https://github.com/Buratii/framer-motion-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=framer-motion-web&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d" />
+  <a href="https://github.com/Buratii/electron_tooltips">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=electron_tooltips&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d" />
   </a>
 </p>
 ---
