@@ -20,10 +20,10 @@
 
 <p align="center">
 <a href="https://github.com/Buratii/react-tooltip-guide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=react-tooltip-guide&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=react-tooltip-guide&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d&cache_seconds=14400&v=2" />
 </a>
 <a href="https://github.com/Buratii/game-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=game-analytics&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=game-analytics&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d&cache_seconds=14400&v=2" />
 </a>
 </p>
 
