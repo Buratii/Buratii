@@ -18,41 +18,23 @@
 
 <h2 align="center">📌 Featured Repositories</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Buratii/react-tooltip-guide">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=react-tooltip-guide&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d"
-          width="420" height="150" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Buratii/electron_tooltips">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=electron_tooltips&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d"
-          width="420" height="150" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Buratii/game-analytics">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=game-analytics&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d"
-          width="420" height="150" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Buratii/payflow">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=payflow&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d"
-          width="420" height="150" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Buratii/react-tooltip-guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=react-tooltip-guide&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d"/>
+  </a>
+  <a href="https://github.com/Buratii/game-analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=game-analytics&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Buratii/payflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=payflow&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d" />
+  </a>
+  <a href="https://github.com/Buratii/framer-motion-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buratii&repo=framer-motion-web&title_color=00bcd4&text_color=e6edf3&icon_color=4169e1&bg_color=0d1117&border_color=30363d" />
+  </a>
+</p>
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
